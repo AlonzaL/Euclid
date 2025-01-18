@@ -179,7 +179,7 @@ body {
 
 /*hero*/
 .hero__container {
-  background-image: url('img/hero-bg.jpg');
+  background-image: url('../img/hero-bg.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -251,7 +251,7 @@ body {
 
 .rules__left {
   justify-content: end;
-  background-image: url('img/rules__left-bg.jpg');
+  background-image: url('../img/rules__left-bg.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -526,7 +526,7 @@ body {
 }
 
 .application__check:checked+label:before {
-  background-image: url('img/check-mark.svg');
+  background-image: url('../img/check-mark.svg');
   background-size: 10px;
 }
 
